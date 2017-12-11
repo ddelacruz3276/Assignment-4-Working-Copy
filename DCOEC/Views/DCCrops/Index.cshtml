@@ -1,0 +1,58 @@
+﻿@model IEnumerable<DCOEC.Models.Crop>
+
+@{
+    Layout = "_Layout";
+    ViewData["Title"] = "Crops Listing - OEC";
+}
+<h2>Crop Listing</h2>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.ActionLink("Crop ID", "Index", new { sortOrder = ViewBag.IDSortParm })
+            </th>
+            <th>
+                @Html.ActionLink(@Html.DisplayNameFor(model => model.Name), "Index", new { sortOrder = ViewBag.NameSortParm })
+            </th>
+            
+            <th>
+               @Html.DisplayNameFor(model => model.Image)
+            </th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+
+   
+
+
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.CropId)
+                </td>
+                <td>
+                    <a  asp-controller="DCVarieties" asp-action="Index" asp-route-CropID="@item.CropId" asp-route-CropName="@item.Name">@Html.DisplayFor(modelItem => item.Name)</a> 
+                   
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Image)
+                </td>
+                <td>
+@*                    <a asp-controller="DCPlots" asp-action="Index" asp-route-Id="@item.CropId" asp-route-cropName="@item.Name">Show Plots</a> |*@
+
+                    <a asp-controller="DCPlots" asp-action="Index" asp-route-Id="@item.CropId" asp-route-SearchCriteria="crop">Show Plots</a> |
+                    <a asp-action="Edit" asp-route-id="@item.CropId">Edit</a> |
+                    <a asp-action="Details" asp-route-id="@item.CropId">Details</a> |
+                    <a asp-action="Delete" asp-route-id="@item.CropId">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+@*@Html.ActionLink("Back to List","Index")*@

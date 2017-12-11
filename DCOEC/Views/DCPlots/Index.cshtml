@@ -1,0 +1,93 @@
+﻿@model IEnumerable<DCOEC.Models.Plot>
+
+
+
+
+
+
+@{
+    ViewData["Title"] = "Index of Plots";
+}
+
+
+<h2>Index of Plots</h2>
+@*<h2>Plots of @ViewData["Search"] ID: @ViewData["ID"] </h2>*@
+
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+
+            <th>
+                Farm @Html.DisplayNameFor(model => model.Farm.Name)
+            </th>
+            <th>
+                Crop @Html.DisplayNameFor(model => model.Variety.Crop.Name)
+            </th>
+            <th>
+                Variety @Html.DisplayNameFor(model => model.Variety.Name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DatePlanted)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Cec)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Treatment)
+            </th>
+
+
+
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                 @Html.DisplayFor(modelItem => item.Farm.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Variety.Crop.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Variety.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DatePlanted)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Cec)
+            </td>
+            <td>
+                @foreach (var x in item.Treatment)
+                {
+                    @*@Html.DisplayFor(modelItem => x.Name)*@
+                    
+                       
+                     
+                        @x.Name;
+                    @*<span> => </span>
+                        @x.Name.Length;*@
+                       <br/>
+                } 
+            </td>
+
+
+
+            
+            <td>
+                
+                <a asp-action="Index" asp-controller ="DCTreatments" asp-route-plotId="@item.PlotId" asp-route-farmName="@item.Farm.Name">Manage Treatments</a> |
+                <a asp-action="Edit" asp-route-id="@item.PlotId">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.PlotId">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.PlotId">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

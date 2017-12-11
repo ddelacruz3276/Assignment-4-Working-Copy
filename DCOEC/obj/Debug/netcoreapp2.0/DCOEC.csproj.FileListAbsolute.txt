@@ -1,0 +1,48 @@
+C:\Dinesh\Projects\2230_MSTech\DCOEC\DCOEC\DCOEC\bin\Debug\netcoreapp2.0\DCOEC.deps.json
+C:\Dinesh\Projects\2230_MSTech\DCOEC\DCOEC\DCOEC\bin\Debug\netcoreapp2.0\DCOEC.runtimeconfig.json
+C:\Dinesh\Projects\2230_MSTech\DCOEC\DCOEC\DCOEC\bin\Debug\netcoreapp2.0\DCOEC.runtimeconfig.dev.json
+C:\Dinesh\Projects\2230_MSTech\DCOEC\DCOEC\DCOEC\bin\Debug\netcoreapp2.0\DCOEC.dll
+C:\Dinesh\Projects\2230_MSTech\DCOEC\DCOEC\DCOEC\bin\Debug\netcoreapp2.0\DCOEC.pdb
+C:\Dinesh\Projects\2230_MSTech\DCOEC\DCOEC\DCOEC\obj\Debug\netcoreapp2.0\DCOEC.csprojResolveAssemblyReference.cache
+C:\Dinesh\Projects\2230_MSTech\DCOEC\DCOEC\DCOEC\obj\Debug\netcoreapp2.0\DCOEC.csproj.CoreCompileInputs.cache
+C:\Dinesh\Projects\2230_MSTech\DCOEC\DCOEC\DCOEC\obj\Debug\netcoreapp2.0\DCOEC.AssemblyInfoInputs.cache
+C:\Dinesh\Projects\2230_MSTech\DCOEC\DCOEC\DCOEC\obj\Debug\netcoreapp2.0\DCOEC.AssemblyInfo.cs
+C:\Dinesh\Projects\2230_MSTech\DCOEC\DCOEC\DCOEC\obj\Debug\netcoreapp2.0\DCOEC.dll
+C:\Dinesh\Projects\2230_MSTech\DCOEC\DCOEC\DCOEC\obj\Debug\netcoreapp2.0\DCOEC.pdb
+C:\Dinesh\Projects\2230_MSTech\DCOEC\DCOEC\DCOEC\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Dinesh\Projects\2230_MSTech\DCOEC\AS3\Dinesh_AS2_FinalAssignmentSubmission\DCOEC\DCOEC\bin\Debug\netcoreapp2.0\DCOEC.deps.json
+C:\Dinesh\Projects\2230_MSTech\DCOEC\AS3\Dinesh_AS2_FinalAssignmentSubmission\DCOEC\DCOEC\bin\Debug\netcoreapp2.0\DCOEC.runtimeconfig.json
+C:\Dinesh\Projects\2230_MSTech\DCOEC\AS3\Dinesh_AS2_FinalAssignmentSubmission\DCOEC\DCOEC\bin\Debug\netcoreapp2.0\DCOEC.runtimeconfig.dev.json
+C:\Dinesh\Projects\2230_MSTech\DCOEC\AS3\Dinesh_AS2_FinalAssignmentSubmission\DCOEC\DCOEC\bin\Debug\netcoreapp2.0\DCOEC.dll
+C:\Dinesh\Projects\2230_MSTech\DCOEC\AS3\Dinesh_AS2_FinalAssignmentSubmission\DCOEC\DCOEC\bin\Debug\netcoreapp2.0\DCOEC.pdb
+C:\Dinesh\Projects\2230_MSTech\DCOEC\AS3\Dinesh_AS2_FinalAssignmentSubmission\DCOEC\DCOEC\obj\Debug\netcoreapp2.0\DCOEC.csprojResolveAssemblyReference.cache
+C:\Dinesh\Projects\2230_MSTech\DCOEC\AS3\Dinesh_AS2_FinalAssignmentSubmission\DCOEC\DCOEC\obj\Debug\netcoreapp2.0\DCOEC.csproj.CoreCompileInputs.cache
+C:\Dinesh\Projects\2230_MSTech\DCOEC\AS3\Dinesh_AS2_FinalAssignmentSubmission\DCOEC\DCOEC\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Dinesh\Projects\2230_MSTech\DCOEC\AS3\Dinesh_AS2_FinalAssignmentSubmission\DCOEC\DCOEC\obj\Debug\netcoreapp2.0\DCOEC.AssemblyInfoInputs.cache
+C:\Dinesh\Projects\2230_MSTech\DCOEC\AS3\Dinesh_AS2_FinalAssignmentSubmission\DCOEC\DCOEC\obj\Debug\netcoreapp2.0\DCOEC.AssemblyInfo.cs
+C:\Dinesh\Projects\2230_MSTech\DCOEC\AS3\Dinesh_AS2_FinalAssignmentSubmission\DCOEC\DCOEC\obj\Debug\netcoreapp2.0\DCOEC.dll
+C:\Dinesh\Projects\2230_MSTech\DCOEC\AS3\Dinesh_AS2_FinalAssignmentSubmission\DCOEC\DCOEC\obj\Debug\netcoreapp2.0\DCOEC.pdb
+C:\Dinesh\Projects\2230_MSTech\DCOEC\AS3\Dinesh_AS3_AssignmentSubmission\DCOEC\DCOEC\bin\Debug\netcoreapp2.0\DCOEC.deps.json
+C:\Dinesh\Projects\2230_MSTech\DCOEC\AS3\Dinesh_AS3_AssignmentSubmission\DCOEC\DCOEC\bin\Debug\netcoreapp2.0\DCOEC.runtimeconfig.json
+C:\Dinesh\Projects\2230_MSTech\DCOEC\AS3\Dinesh_AS3_AssignmentSubmission\DCOEC\DCOEC\bin\Debug\netcoreapp2.0\DCOEC.runtimeconfig.dev.json
+C:\Dinesh\Projects\2230_MSTech\DCOEC\AS3\Dinesh_AS3_AssignmentSubmission\DCOEC\DCOEC\bin\Debug\netcoreapp2.0\DCOEC.dll
+C:\Dinesh\Projects\2230_MSTech\DCOEC\AS3\Dinesh_AS3_AssignmentSubmission\DCOEC\DCOEC\bin\Debug\netcoreapp2.0\DCOEC.pdb
+C:\Dinesh\Projects\2230_MSTech\DCOEC\AS3\Dinesh_AS3_AssignmentSubmission\DCOEC\DCOEC\obj\Debug\netcoreapp2.0\DCOEC.csprojResolveAssemblyReference.cache
+C:\Dinesh\Projects\2230_MSTech\DCOEC\AS3\Dinesh_AS3_AssignmentSubmission\DCOEC\DCOEC\obj\Debug\netcoreapp2.0\DCOEC.csproj.CoreCompileInputs.cache
+C:\Dinesh\Projects\2230_MSTech\DCOEC\AS3\Dinesh_AS3_AssignmentSubmission\DCOEC\DCOEC\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Dinesh\Projects\2230_MSTech\DCOEC\AS3\Dinesh_AS3_AssignmentSubmission\DCOEC\DCOEC\obj\Debug\netcoreapp2.0\DCOEC.AssemblyInfoInputs.cache
+C:\Dinesh\Projects\2230_MSTech\DCOEC\AS3\Dinesh_AS3_AssignmentSubmission\DCOEC\DCOEC\obj\Debug\netcoreapp2.0\DCOEC.AssemblyInfo.cs
+C:\Dinesh\Projects\2230_MSTech\DCOEC\AS3\Dinesh_AS3_AssignmentSubmission\DCOEC\DCOEC\obj\Debug\netcoreapp2.0\DCOEC.dll
+C:\Dinesh\Projects\2230_MSTech\DCOEC\AS3\Dinesh_AS3_AssignmentSubmission\DCOEC\DCOEC\obj\Debug\netcoreapp2.0\DCOEC.pdb
+C:\Users\Dominic\Documents\Prog 2230 ASP\Assignment 3 Dinesh\oec-master\DCOEC\bin\Debug\netcoreapp2.0\DCOEC.deps.json
+C:\Users\Dominic\Documents\Prog 2230 ASP\Assignment 3 Dinesh\oec-master\DCOEC\bin\Debug\netcoreapp2.0\DCOEC.runtimeconfig.json
+C:\Users\Dominic\Documents\Prog 2230 ASP\Assignment 3 Dinesh\oec-master\DCOEC\bin\Debug\netcoreapp2.0\DCOEC.runtimeconfig.dev.json
+C:\Users\Dominic\Documents\Prog 2230 ASP\Assignment 3 Dinesh\oec-master\DCOEC\bin\Debug\netcoreapp2.0\DCOEC.dll
+C:\Users\Dominic\Documents\Prog 2230 ASP\Assignment 3 Dinesh\oec-master\DCOEC\bin\Debug\netcoreapp2.0\DCOEC.pdb
+C:\Users\Dominic\Documents\Prog 2230 ASP\Assignment 3 Dinesh\oec-master\DCOEC\obj\Debug\netcoreapp2.0\DCOEC.csprojResolveAssemblyReference.cache
+C:\Users\Dominic\Documents\Prog 2230 ASP\Assignment 3 Dinesh\oec-master\DCOEC\obj\Debug\netcoreapp2.0\DCOEC.csproj.CoreCompileInputs.cache
+C:\Users\Dominic\Documents\Prog 2230 ASP\Assignment 3 Dinesh\oec-master\DCOEC\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Dominic\Documents\Prog 2230 ASP\Assignment 3 Dinesh\oec-master\DCOEC\obj\Debug\netcoreapp2.0\DCOEC.AssemblyInfoInputs.cache
+C:\Users\Dominic\Documents\Prog 2230 ASP\Assignment 3 Dinesh\oec-master\DCOEC\obj\Debug\netcoreapp2.0\DCOEC.AssemblyInfo.cs
+C:\Users\Dominic\Documents\Prog 2230 ASP\Assignment 3 Dinesh\oec-master\DCOEC\obj\Debug\netcoreapp2.0\DCOEC.dll
+C:\Users\Dominic\Documents\Prog 2230 ASP\Assignment 3 Dinesh\oec-master\DCOEC\obj\Debug\netcoreapp2.0\DCOEC.pdb

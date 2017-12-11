@@ -1,0 +1,77 @@
+﻿@model IEnumerable<DCOEC.Models.Variety>
+
+
+@{
+    ViewData["Title"] = "Varieties of {" + ViewData["CropName"] + "}";
+}
+
+
+<h2>Varieties of {@ViewData["CropName"]}</h2>
+
+CropId = @ViewData["CropID"]
+
+@*Variety ID = @ViewData["VarietyID"]
+Variety name = @ViewData["VarietyName"]*@
+
+
+
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+                @*<th>
+                    @Html.ActionLink("Variety ID", "Index", new { sortOrder = ViewBag.IDSortParm })
+                </th>
+                <th>
+                    @Html.ActionLink(@Html.DisplayNameFor(model => model.Name), "Index", new { sortOrder = ViewBag.NameSortParm })
+                </th>
+                <th>
+                    @Html.ActionLink("Crop ID","Index", new { sortOrder = ViewBag.CropIDSortParm})
+                </th>*@
+                
+            @*<th>
+                @Html.DisplayNameFor(model => model.VarietyId)
+            </th>*@
+            <th>
+                @Html.DisplayNameFor(model => model.Name)
+            </th>
+            @*<th>
+                @Html.DisplayNameFor(model => model.Crop)
+            </th>
+            
+            <th>
+                    Crop @Html.DisplayNameFor(model => model.Crop.Name)
+                </th>*@
+                
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            @*<td>
+                @Html.DisplayFor(modelItem => item.VarietyId)
+            </td>*@
+            <td>
+                <a asp-controller="DCPlots" asp-action="Index" asp-route-Id="@item.VarietyId" asp-route-SearchCriteria="variety">
+                    @Html.DisplayFor(modelItem => item.Name)
+                </a>
+            </td>
+            @*<td>
+                @Html.DisplayFor(modelItem => item.CropId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Crop.Name)
+            </td>*@
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.VarietyId">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.VarietyId">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.VarietyId">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
